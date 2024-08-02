@@ -4,7 +4,7 @@ public class hello {
 
 	public static void main(String[] args) {
 		System.out.println("상민");
-		System.out.println();
+		System.out.println("나의브랜치");
 	}
 
 }
