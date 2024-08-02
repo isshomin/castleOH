@@ -12,6 +12,7 @@ public class hello {
 		System.out.println("상민");
 		System.out.println("상민");
 
+		System.out.println("성호");
 		System.out.println();
 	}
 
